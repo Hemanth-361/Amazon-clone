@@ -1,4 +1,26 @@
-# Amazon-clone
-This is my first project – a simple Amazon clone built using HTML and CSS to replicate the homepage layout and styling of the popular e-commerce website. The project focuses on structuring web content with semantic HTML and styling it with modern CSS techniques.
-# link 
-https://hemanth-361.github.io/Amazon-clone/
+# 🛒 Amazon Clone
+
+A fully responsive Amazon homepage clone built using **HTML** and **CSS**.  
+This project replicates the layout and design of the Amazon India homepage to practice front-end development skills.
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://hemanth-361.github.io/Amazon-clone/)  
+
+---
+
+## 🧰 Tech Stack
+
+- 🌐 HTML5
+- 🎨 CSS3
+- 💻 VS Code
+
+---
+
+## 📁 Folder Structure
+
+Amazon-clone/
+├── index.html
+├── style.css
+└── assets/
+    └── images, icons, etc.
